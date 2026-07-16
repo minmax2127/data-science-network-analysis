@@ -75,6 +75,8 @@ docs/_build/
 .pybuilder/
 target/
 
+
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -151,6 +153,7 @@ activemq-data/
 .env
 .envrc
 .venv
+.networkx-venv
 env/
 venv/
 ENV/
